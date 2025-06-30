@@ -20,7 +20,7 @@ Welcome to the **Recipe App**! This application allows you to browse, search, an
    ```
 2. Navigate to the project directory:
    ```bash
-   cd recipe-app
+   cd react-recipe-app
    ```
 3. Install dependencies:
    ```bash
