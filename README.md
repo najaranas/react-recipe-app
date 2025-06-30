@@ -16,7 +16,7 @@ Welcome to the **Recipe App**! This application allows you to browse, search, an
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/najaranas/react-recipe-app
    ```
 2. Navigate to the project directory:
    ```bash
